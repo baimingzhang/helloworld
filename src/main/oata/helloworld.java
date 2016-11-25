@@ -9,7 +9,6 @@ public class helloworld {
 		Log.write(LogType.INFO, "hellowworld");
 		Log.write(LogType.INFO, "``````hellowworld1");
 		Log.write(LogType.INFO, "``````hellowworld1");
-		Log.write(LogType.INFO, "``````hellowworld1");
 		
 	}
 
