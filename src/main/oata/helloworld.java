@@ -8,7 +8,6 @@ public class helloworld {
 		Log.initLog(helloworld.class.getName());
 		Log.write(LogType.INFO, "hellowworld");
 		Log.write(LogType.INFO, "``````hellowworld1");
-		Log.write(LogType.INFO, "``````hellowworld1");
 		
 	}
 
